@@ -7,7 +7,7 @@ Agent-Based Epidemiological Models. Simulation of epidemic spread depending on a
 
 ### Install Miniconda
 
-Go to the official documentation page: [Miniconda Installers](https://docs.conda.io/en/latest/miniconda.html).
+Go to the official documentation page: [Miniconda Installers](https://docs.conda.io/en/latest/miniconda.html)
 
 ### Creating the environment
 
