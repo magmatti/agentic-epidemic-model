@@ -1,7 +1,7 @@
 # Agentic Epidemic Model
-## Cracow University of Technology 2026, Complex System - Final Project. 
+## Complex Systems - Cracow University of Technology 2026.
 
-Agent-Based Epidemiological Models. Simulation of epidemic spread depending on agent characteristics, social structure, and disease infectivity.
+Agent-Based Epidemiological Model. Simulation of epidemic spread depending on agent characteristics, social structure, and disease infectivity.
 
 ## How to run the model
 
